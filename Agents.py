@@ -1,4 +1,5 @@
 import random
+import numpy as np
 
 class Action(object):
 	"""
@@ -49,7 +50,7 @@ class MultiArmedBanditsAgent(object):
 			return random.choice(list(range(len(self.actions))))
 		else:
 			# Exploit
-			return self.selectActionGreedy()	
+			return self.selectActionGreedy()
 
 	# Updates estimated value 'Q' of an action given the reward
 	# that was just given for taking the action using the incremental
@@ -85,7 +86,7 @@ class EpsilonGreedyAgent(MultiArmedBanditsAgent):
 
 	env: Gym env the agent will be trained on
 
-	epsilon: epsilon
+	epsilon: epsilon-greedy exploration parameter
 	"""
 	def __init__(self, env, epsilon):
 		# Call base class constructor
@@ -102,9 +103,9 @@ class ConstantAlphaAgent(MultiArmedBanditsAgent):
 
 	env: Gym env the agent will be trained on
 
-	epsilon: epsilon
+	epsilon: epsilon-greedy exploration parameter
 
-	alpha: alpha
+	alpha: step size
 	"""
 	def __init__(self, env, epsilon, alpha):
 		# Call base class constructor
@@ -114,6 +115,45 @@ class ConstantAlphaAgent(MultiArmedBanditsAgent):
 
 	def selectAction(self):
 		return super().selectActionEpsilonGreedy(self.epsilon)
+
+	def updateActionEstimation(self, action, reward):
+		return super().updateActionEstimation(action, reward, self.alpha)
+
+class UCBAgent(MultiArmedBanditsAgent):
+	"""
+	Implementation of an agent that uses a constant alpha value
+	for action-value estimation and Upper-Confidence-Bound action
+	selection.
+
+	env: Gym env the agent will be trained on
+
+	alpha: step size
+
+	c: confidence value
+	"""
+	def __init__(self, env, alpha, c):
+		# Call base class constructor
+		super().__init__(env)
+		self.alpha = alpha
+		self.c = c
+
+	# Selects an action using the UCB algorithm
+	def selectAction(self, t):
+		ucb_values = []
+		for action in self.actions:
+			uncertainty = None
+			if action.n == 0:
+				uncertainty = float("inf")
+			else:
+				uncertainty = self.c * np.sqrt(np.log(t) / action.n)
+
+			# UCB formula is estimation + uncertainty
+			ucb_values.append(
+				action.Q + uncertainty
+			)
+
+		return np.argmax(ucb_values)
+
 
 	def updateActionEstimation(self, action, reward):
 		return super().updateActionEstimation(action, reward, self.alpha)

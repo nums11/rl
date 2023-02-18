@@ -40,13 +40,29 @@ class MultiArmedBanditsAgent(object):
 
 		return best_action
 
+	# Selects an action epsilon greedily
+	# Chooses action greedily (1-epsilon) % of the time
+	# and explores a random action epsilon percent of the time	
+	def selectActionEpsilonGreedy(self, epsilon):
+		if random.uniform(0,1) < epsilon:
+			# Explore
+			return random.choice(list(range(len(self.actions))))
+		else:
+			# Exploit
+			return self.selectActionGreedy()	
+
 	# Updates estimated value 'Q' of an action given the reward
 	# that was just given for taking the action using the incremental
 	# update algorithm
-	def updateActionEstimation(self, action, reward):
+	def updateActionEstimation(self, action, reward, alpha=None):
 		self.actions[action].n += 1
+
+		step_size = (1 / self.actions[action].n)
+		if alpha != None:
+			step_size = alpha
+
 		self.actions[action].Q = self.actions[action].Q + \
-			(1 / self.actions[action].n) * (reward - self.actions[action].Q)
+			step_size * (reward - self.actions[action].Q)
 
 
 class GreedyAgent(MultiArmedBanditsAgent):
@@ -76,13 +92,28 @@ class EpsilonGreedyAgent(MultiArmedBanditsAgent):
 		super().__init__(env)
 		self.epsilon = epsilon
 
-	# Selects an action epsilon greedily
-	# Chooses action greedily (1-epsilon) % of the time
-	# and explores a random action epsilon percent of the time	
 	def selectAction(self):
-		if random.uniform(0,1) < self.epsilon:
-			# Explore
-			return random.choice(list(range(len(self.actions))))
-		else:
-			# Exploit
-			return super().selectActionGreedy()	
+		return super().selectActionEpsilonGreedy(self.epsilon)
+
+class ConstantAlphaAgent(MultiArmedBanditsAgent):
+	"""
+	Implementation of an agent that uses a constant alpha value
+	for action-value estimation and epsilon-greedy action selection.
+
+	env: Gym env the agent will be trained on
+
+	epsilon: epsilon
+
+	alpha: alpha
+	"""
+	def __init__(self, env, epsilon, alpha):
+		# Call base class constructor
+		super().__init__(env)
+		self.epsilon = epsilon
+		self.alpha = alpha
+
+	def selectAction(self):
+		return super().selectActionEpsilonGreedy(self.epsilon)
+
+	def updateActionEstimation(self, action, reward):
+		return super().updateActionEstimation(action, reward, self.alpha)

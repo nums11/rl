@@ -194,7 +194,7 @@ class GradientBanditAgent(MultiArmedBanditsAgent):
 
 	# Updates action preferences (H_values)
 	def updateActionPreferences(self, action, reward):
-		# Update action estimation using incrementally updated sample averaging
+		# Update action estimation using incrementally updated constant-alpha averaging
 		super().updateActionEstimation(action, reward, 0.9)
 
 		r_mean = self.actions[action].Q

@@ -19,7 +19,6 @@ def testGBanditAgent(alpha):
 	return sum(g_bandit_agent_rewards) / num_episodes
 
 
-# 0.1, 0.2, ..., 0.9
 alphas = np.arange(1, 100, 10)
 
 all_rewards = []

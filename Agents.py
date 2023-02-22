@@ -23,7 +23,7 @@ class MultiArmedBanditsAgent(object):
 		# Create list of actions agent can select from env (e.g. [0,1])
 		self.actions = []
 		for _ in range(env.action_space.n):
-			self.actions.append(Action(optimistic=True))
+			self.actions.append(Action(optimistic=False))
 
 	def selectAction(self):
 		pass
@@ -64,6 +64,7 @@ class MultiArmedBanditsAgent(object):
 
 		self.actions[action].Q = self.actions[action].Q + \
 			step_size * (reward - self.actions[action].Q)
+		# print("Q for action", action, self.actions[action].Q)
 
 
 class GreedyAgent(MultiArmedBanditsAgent):
@@ -157,3 +158,65 @@ class UCBAgent(MultiArmedBanditsAgent):
 
 	def updateActionEstimation(self, action, reward):
 		return super().updateActionEstimation(action, reward, self.alpha)
+
+class GradientBanditAgent(MultiArmedBanditsAgent):
+	"""
+	Implementation of a Gradient Bandit Agent.
+
+	env: Gym env the agent will be trained on
+
+	alpha: step size
+	"""
+	def __init__(self, env, alpha):
+		# Call base class constructor
+		super().__init__(env)
+		self.alpha = alpha
+		# Initialize all preferences to 0
+		self.H_values = [0] * len(self.actions)
+
+	def selectAction(self):
+		self.action_probs = list(map(self._getActionProb, self.H_values))
+
+		# Select an action randomly using the weighted probabilities
+		action = random.choices(
+			list(range(len(self.actions))),
+			self.action_probs,
+			k=1)[0]
+
+		print("action_probs", self.action_probs)
+
+		return action
+
+	# Gets the probability of selecting an action using a softmax
+	# over the action preferences
+	def _getActionProb(self, H):
+		return np.exp(H) / np.sum(np.exp(self.H_values))
+
+	# Updates action preferences (H_values)
+	def updateActionPreferences(self, action, reward):
+		# Update action estimation using incrementally updated sample averaging
+		super().updateActionEstimation(action, reward, 0.9)
+
+		r_mean = self.actions[action].Q
+		error = reward - r_mean
+
+		for a in list(range(len(self.actions))):
+			if a != action:
+				self._updateActionPreference(a, error)
+			else:
+				self._updateActionPreference(a, error, is_curr_action=True)
+
+		print("Action preferences", self.H_values)
+
+	def _updateActionPreference(self, action, error, is_curr_action=False):
+		action_pref = self.H_values[action]
+		action_prob = self.action_probs[action]
+		# print("error", error,)
+
+		if is_curr_action:
+			self.H_values[action] = action_pref + \
+				self.alpha * error * (1 - action_prob) 
+		else:
+			self.H_values[action] = action_pref - \
+				self.alpha * error * action_prob
+

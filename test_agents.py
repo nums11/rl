@@ -41,6 +41,16 @@ for i in range(num_episodes):
   c_alpha_agent.updateActionEstimation(action, reward)
   c_alpha_agent_rewards.append(reward)
 
+env.reset()
+g_bandit_agent_rewards = []
+for i in range(num_episodes):
+  action = g_bandit_agent.selectAction()
+  obs, reward, done, info = env.step(action)
+  print("Took action:", action, "reward:", reward)
+  g_bandit_agent.updateActionPreferences(action, reward)
+  g_bandit_agent_rewards.append(reward)
+print(sum(g_bandit_agent_rewards)/ num_episodes)
+
 print("Results after", num_episodes, "episodes")
 print("-----------------------------------")
 print("Cumulative reward:")

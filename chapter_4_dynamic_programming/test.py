@@ -9,4 +9,4 @@ pi_agent = PolicyIterationAgent(0.9)
 pi_agent.policyIterate()
 
 vi_agent = ValueIterationAgent(0.9)
-# vi_agent.valueIterate()
+vi_agent.valueIterate()

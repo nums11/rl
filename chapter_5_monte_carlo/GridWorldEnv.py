@@ -52,7 +52,7 @@ class GridWorldEnv(Env):
             reward = 5
 
         if self.step_count == self.max_steps:
-        	done = True
+            done = True
 
         self.step_count += 1
 
@@ -65,11 +65,18 @@ class GridWorldEnv(Env):
     	return self.grid[self.pos[0]][self.pos[1]] == 1
 
     def reset(self):
-    	# Reset step count
-    	self.step_count = 0
+        # Reset step count
+        self.step_count = 0
         # Start the agent in the top right corner
         self.pos = (0,3)
         return self.pos
+
+    # Optionally allow start position to be set
+    def setStartPos(self, pos):
+        if self._onGrid(pos):
+            self.pos = pos
+        else:
+            print("ERROR: Start position not on grid")
 
     def render(self):
         # Convert every element in the grid from a number to a string

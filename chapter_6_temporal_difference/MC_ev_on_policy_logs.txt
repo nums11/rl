@@ -1,0 +1,2147 @@
+Starting training-----------------
+Episode 0
+Episode Terminated. cum_reward 0.0 truncated? False t: 16 final_obs: 12
+Episode 1
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 2
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 3
+Episode Terminated. cum_reward 0.0 truncated? False t: 18 final_obs: 5
+Episode 4
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 12
+Episode 5
+Episode Terminated. cum_reward 0.0 truncated? False t: 18 final_obs: 5
+Episode 6
+Episode Terminated. cum_reward 0.0 truncated? False t: 15 final_obs: 5
+Episode 7
+Episode Terminated. cum_reward 0.0 truncated? False t: 22 final_obs: 5
+Episode 8
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 5
+Episode 9
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 10
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 11
+Episode Terminated. cum_reward 0.0 truncated? False t: 26 final_obs: 5
+Episode 12
+Episode Terminated. cum_reward 0.0 truncated? False t: 31 final_obs: 5
+Episode 13
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 14
+Episode Terminated. cum_reward 0.0 truncated? False t: 34 final_obs: 5
+Episode 15
+Episode Terminated. cum_reward 0.0 truncated? False t: 18 final_obs: 5
+Episode 16
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 12
+Episode 17
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 5
+Episode 18
+Episode Terminated. cum_reward 0.0 truncated? False t: 29 final_obs: 5
+Episode 19
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 20
+Episode Terminated. cum_reward 0.0 truncated? False t: 35 final_obs: 12
+Episode 21
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 22
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 23
+Episode Terminated. cum_reward 0.0 truncated? False t: 48 final_obs: 12
+Episode 24
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 25
+Episode Terminated. cum_reward 0.0 truncated? False t: 30 final_obs: 12
+Episode 26
+Episode Terminated. cum_reward 0.0 truncated? False t: 21 final_obs: 5
+Episode 27
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 28
+Episode Terminated. cum_reward 0.0 truncated? False t: 15 final_obs: 12
+Episode 29
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 30
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 12
+Episode 31
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 5
+Episode 32
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 33
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 5
+Episode 34
+Episode Terminated. cum_reward 0.0 truncated? False t: 31 final_obs: 5
+Episode 35
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 36
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 12
+Episode 37
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 38
+Episode Terminated. cum_reward 0.0 truncated? False t: 53 final_obs: 5
+Episode 39
+Episode Terminated. cum_reward 0.0 truncated? False t: 43 final_obs: 5
+Episode 40
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 41
+Episode Terminated. cum_reward 0.0 truncated? False t: 18 final_obs: 5
+Episode 42
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 43
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 44
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 12
+Episode 45
+Episode Terminated. cum_reward 0.0 truncated? False t: 26 final_obs: 5
+Episode 46
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 47
+Episode Terminated. cum_reward 0.0 truncated? False t: 27 final_obs: 12
+Episode 48
+Episode Terminated. cum_reward 0.0 truncated? False t: 25 final_obs: 5
+Episode 49
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 50
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 5
+Episode 51
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 52
+Episode Terminated. cum_reward 0.0 truncated? False t: 28 final_obs: 5
+Episode 53
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 54
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 55
+Episode Terminated. cum_reward 0.0 truncated? False t: 37 final_obs: 5
+Episode 56
+Episode Terminated. cum_reward 0.0 truncated? False t: 28 final_obs: 5
+Episode 57
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 58
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 59
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 60
+Episode Terminated. cum_reward 0.0 truncated? False t: 15 final_obs: 12
+Episode 61
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 62
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 63
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 64
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 65
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 66
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 67
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 68
+Episode Terminated. cum_reward 0.0 truncated? False t: 20 final_obs: 5
+Episode 69
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 70
+Episode Terminated. cum_reward 0.0 truncated? False t: 34 final_obs: 5
+Episode 71
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 72
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 73
+Episode Terminated. cum_reward 0.0 truncated? False t: 40 final_obs: 5
+Episode 74
+Episode Terminated. cum_reward 0.0 truncated? False t: 79 final_obs: 5
+Episode 75
+Episode Terminated. cum_reward 0.0 truncated? False t: 19 final_obs: 5
+Episode 76
+Episode Terminated. cum_reward 0.0 truncated? False t: 43 final_obs: 12
+Episode 77
+Episode Terminated. cum_reward 0.0 truncated? False t: 16 final_obs: 5
+Episode 78
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 79
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 5
+Episode 80
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 5
+Episode 81
+Episode Terminated. cum_reward 0.0 truncated? False t: 24 final_obs: 12
+Episode 82
+Episode Terminated. cum_reward 0.0 truncated? False t: 32 final_obs: 5
+Episode 83
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 12
+Episode 84
+Episode Terminated. cum_reward 0.0 truncated? False t: 30 final_obs: 5
+Episode 85
+Episode Terminated. cum_reward 0.0 truncated? False t: 23 final_obs: 7
+Episode 86
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 87
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 5
+Episode 88
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 89
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 90
+Episode Terminated. cum_reward 0.0 truncated? False t: 26 final_obs: 5
+Episode 91
+Episode Terminated. cum_reward 0.0 truncated? False t: 30 final_obs: 5
+Episode 92
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 93
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 94
+Episode Terminated. cum_reward 0.0 truncated? False t: 31 final_obs: 5
+Episode 95
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 96
+Episode Terminated. cum_reward 0.0 truncated? False t: 19 final_obs: 5
+Episode 97
+Episode Terminated. cum_reward 0.0 truncated? False t: 19 final_obs: 5
+Episode 98
+Episode Terminated. cum_reward 0.0 truncated? False t: 21 final_obs: 5
+Episode 99
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 100
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 5
+Episode 101
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 102
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 103
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 104
+Episode Terminated. cum_reward 0.0 truncated? False t: 29 final_obs: 5
+Episode 105
+Episode Terminated. cum_reward 0.0 truncated? False t: 42 final_obs: 5
+Episode 106
+Episode Terminated. cum_reward 0.0 truncated? False t: 40 final_obs: 5
+Episode 107
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 12
+Episode 108
+Episode Terminated. cum_reward 0.0 truncated? False t: 31 final_obs: 5
+Episode 109
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 110
+Episode Terminated. cum_reward 0.0 truncated? False t: 15 final_obs: 12
+Episode 111
+Episode Terminated. cum_reward 0.0 truncated? False t: 29 final_obs: 5
+Episode 112
+Episode Terminated. cum_reward 0.0 truncated? False t: 25 final_obs: 5
+Episode 113
+Episode Terminated. cum_reward 0.0 truncated? False t: 31 final_obs: 5
+Episode 114
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 115
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 116
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 117
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 12
+Episode 118
+Episode Terminated. cum_reward 0.0 truncated? False t: 21 final_obs: 5
+Episode 119
+Episode Terminated. cum_reward 0.0 truncated? False t: 21 final_obs: 5
+Episode 120
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 5
+Episode 121
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 122
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 123
+Episode Terminated. cum_reward 0.0 truncated? False t: 24 final_obs: 5
+Episode 124
+Episode Terminated. cum_reward 0.0 truncated? False t: 41 final_obs: 5
+Episode 125
+Episode Terminated. cum_reward 0.0 truncated? False t: 41 final_obs: 5
+Episode 126
+Episode Terminated. cum_reward 0.0 truncated? False t: 27 final_obs: 5
+Episode 127
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 7
+Episode 128
+Episode Terminated. cum_reward 0.0 truncated? False t: 19 final_obs: 12
+Episode 129
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 12
+Episode 130
+Episode Terminated. cum_reward 0.0 truncated? False t: 18 final_obs: 5
+Episode 131
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 132
+Episode Terminated. cum_reward 0.0 truncated? False t: 26 final_obs: 5
+Episode 133
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 12
+Episode 134
+Episode Terminated. cum_reward 0.0 truncated? False t: 35 final_obs: 12
+Episode 135
+Episode Terminated. cum_reward 0.0 truncated? False t: 24 final_obs: 5
+Episode 136
+Episode Terminated. cum_reward 0.0 truncated? False t: 29 final_obs: 5
+Episode 137
+Episode Terminated. cum_reward 0.0 truncated? False t: 23 final_obs: 5
+Episode 138
+Episode Terminated. cum_reward 0.0 truncated? False t: 33 final_obs: 5
+Episode 139
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 140
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 141
+Episode Terminated. cum_reward 0.0 truncated? False t: 19 final_obs: 5
+Episode 142
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 5
+Episode 143
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 144
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 145
+Episode Terminated. cum_reward 0.0 truncated? False t: 19 final_obs: 5
+Episode 146
+Episode Terminated. cum_reward 0.0 truncated? False t: 43 final_obs: 5
+Episode 147
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 148
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 149
+Episode Terminated. cum_reward 0.0 truncated? False t: 18 final_obs: 7
+Episode 150
+Episode Terminated. cum_reward 0.0 truncated? False t: 59 final_obs: 5
+Episode 151
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 152
+Episode Terminated. cum_reward 0.0 truncated? False t: 18 final_obs: 5
+Episode 153
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 12
+Episode 154
+Episode Terminated. cum_reward 0.0 truncated? False t: 35 final_obs: 5
+Episode 155
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 156
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 5
+Episode 157
+Episode Terminated. cum_reward 0.0 truncated? False t: 24 final_obs: 5
+Episode 158
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 5
+Episode 159
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 5
+Episode 160
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 5
+Episode 161
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 162
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 12
+Episode 163
+Episode Terminated. cum_reward 0.0 truncated? False t: 20 final_obs: 5
+Episode 164
+Episode Terminated. cum_reward 0.0 truncated? False t: 43 final_obs: 5
+Episode 165
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 5
+Episode 166
+Episode Terminated. cum_reward 0.0 truncated? False t: 31 final_obs: 5
+Episode 167
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 12
+Episode 168
+Episode Terminated. cum_reward 0.0 truncated? False t: 26 final_obs: 5
+Episode 169
+Episode Terminated. cum_reward 0.0 truncated? False t: 20 final_obs: 12
+Episode 170
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 171
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 5
+Episode 172
+Episode Terminated. cum_reward 0.0 truncated? False t: 18 final_obs: 5
+Episode 173
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 7
+Episode 174
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 175
+Episode Terminated. cum_reward 0.0 truncated? False t: 18 final_obs: 12
+Episode 176
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 177
+Episode Terminated. cum_reward 0.0 truncated? False t: 34 final_obs: 12
+Episode 178
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 179
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 180
+Episode Terminated. cum_reward 0.0 truncated? False t: 57 final_obs: 5
+Episode 181
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 12
+Episode 182
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 12
+Episode 183
+Episode Terminated. cum_reward 0.0 truncated? False t: 32 final_obs: 12
+Episode 184
+Episode Terminated. cum_reward 0.0 truncated? False t: 36 final_obs: 5
+Episode 185
+Episode Terminated. cum_reward 0.0 truncated? False t: 33 final_obs: 5
+Episode 186
+Episode Terminated. cum_reward 0.0 truncated? False t: 39 final_obs: 5
+Episode 187
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 188
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 12
+Episode 189
+Episode Terminated. cum_reward 0.0 truncated? False t: 53 final_obs: 5
+Episode 190
+Episode Terminated. cum_reward 0.0 truncated? False t: 32 final_obs: 12
+Episode 191
+Episode Terminated. cum_reward 0.0 truncated? False t: 24 final_obs: 5
+Episode 192
+Episode Terminated. cum_reward 0.0 truncated? False t: 68 final_obs: 5
+Episode 193
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 194
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 12
+Episode 195
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 196
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 5
+Episode 197
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 198
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 199
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 12
+Episode 200
+Episode Terminated. cum_reward 0.0 truncated? False t: 19 final_obs: 5
+Episode 201
+Episode Terminated. cum_reward 0.0 truncated? False t: 22 final_obs: 5
+Episode 202
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 12
+Episode 203
+Episode Terminated. cum_reward 0.0 truncated? False t: 31 final_obs: 12
+Episode 204
+Episode Terminated. cum_reward 0.0 truncated? False t: 27 final_obs: 5
+Episode 205
+Episode Terminated. cum_reward 0.0 truncated? False t: 32 final_obs: 5
+Episode 206
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 5
+Episode 207
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 5
+Episode 208
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 5
+Episode 209
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 5
+Episode 210
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 211
+Episode Terminated. cum_reward 0.0 truncated? False t: 19 final_obs: 12
+Episode 212
+Episode Terminated. cum_reward 0.0 truncated? False t: 34 final_obs: 5
+Episode 213
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 214
+Episode Terminated. cum_reward 0.0 truncated? False t: 34 final_obs: 12
+Episode 215
+Episode Terminated. cum_reward 0.0 truncated? False t: 19 final_obs: 5
+Episode 216
+Episode Terminated. cum_reward 0.0 truncated? False t: 22 final_obs: 5
+Episode 217
+Episode Terminated. cum_reward 0.0 truncated? False t: 23 final_obs: 12
+Episode 218
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 219
+Episode Terminated. cum_reward 0.0 truncated? False t: 16 final_obs: 5
+Episode 220
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 221
+Episode Terminated. cum_reward 0.0 truncated? False t: 15 final_obs: 12
+Episode 222
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 223
+Episode Terminated. cum_reward 0.0 truncated? False t: 36 final_obs: 5
+Episode 224
+Episode Terminated. cum_reward 0.0 truncated? False t: 15 final_obs: 5
+Episode 225
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 226
+Episode Terminated. cum_reward 0.0 truncated? False t: 16 final_obs: 12
+Episode 227
+Episode Terminated. cum_reward 0.0 truncated? False t: 19 final_obs: 5
+Episode 228
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 229
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 230
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 231
+Episode Terminated. cum_reward 0.0 truncated? False t: 58 final_obs: 12
+Episode 232
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 233
+Episode Terminated. cum_reward 0.0 truncated? False t: 24 final_obs: 5
+Episode 234
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 235
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 12
+Episode 236
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 237
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 238
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 12
+Episode 239
+Episode Terminated. cum_reward 0.0 truncated? False t: 57 final_obs: 12
+Episode 240
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 5
+Episode 241
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 12
+Episode 242
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 12
+Episode 243
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 5
+Episode 244
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 245
+Episode Terminated. cum_reward 0.0 truncated? False t: 22 final_obs: 12
+Episode 246
+Episode Terminated. cum_reward 0.0 truncated? False t: 15 final_obs: 5
+Episode 247
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 248
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 5
+Episode 249
+Episode Terminated. cum_reward 0.0 truncated? False t: 27 final_obs: 5
+Episode 250
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 5
+Episode 251
+Episode Terminated. cum_reward 0.0 truncated? False t: 22 final_obs: 5
+Episode 252
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 12
+Episode 253
+Episode Terminated. cum_reward 0.0 truncated? False t: 16 final_obs: 5
+Episode 254
+Episode Terminated. cum_reward 0.0 truncated? False t: 37 final_obs: 12
+Episode 255
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 256
+Episode Terminated. cum_reward 0.0 truncated? False t: 20 final_obs: 5
+Episode 257
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 258
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 259
+Episode Terminated. cum_reward 0.0 truncated? False t: 81 final_obs: 5
+Episode 260
+Episode Terminated. cum_reward 0.0 truncated? False t: 23 final_obs: 5
+Episode 261
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 5
+Episode 262
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 5
+Episode 263
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 264
+Episode Terminated. cum_reward 0.0 truncated? False t: 27 final_obs: 12
+Episode 265
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 266
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 267
+Episode Terminated. cum_reward 0.0 truncated? False t: 16 final_obs: 12
+Episode 268
+Episode Terminated. cum_reward 0.0 truncated? False t: 43 final_obs: 5
+Episode 269
+Episode Terminated. cum_reward 0.0 truncated? False t: 36 final_obs: 5
+Episode 270
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 12
+Episode 271
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 12
+Episode 272
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 273
+Episode Terminated. cum_reward 0.0 truncated? False t: 39 final_obs: 12
+Episode 274
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 275
+Episode Terminated. cum_reward 0.0 truncated? False t: 65 final_obs: 12
+Episode 276
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 12
+Episode 277
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 278
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 279
+Episode Terminated. cum_reward 0.0 truncated? False t: 41 final_obs: 5
+Episode 280
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 281
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 282
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 283
+Episode Terminated. cum_reward 0.0 truncated? False t: 23 final_obs: 5
+Episode 284
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 285
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 286
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 287
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 288
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 5
+Episode 289
+Episode Terminated. cum_reward 0.0 truncated? False t: 55 final_obs: 5
+Episode 290
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 291
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 292
+Episode Terminated. cum_reward 0.0 truncated? False t: 36 final_obs: 5
+Episode 293
+Episode Terminated. cum_reward 0.0 truncated? False t: 23 final_obs: 5
+Episode 294
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 5
+Episode 295
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 296
+Episode Terminated. cum_reward 0.0 truncated? False t: 39 final_obs: 5
+Episode 297
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 12
+Episode 298
+Episode Terminated. cum_reward 0.0 truncated? False t: 29 final_obs: 5
+Episode 299
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 300
+Episode Terminated. cum_reward 0.0 truncated? False t: 58 final_obs: 5
+Episode 301
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 302
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 5
+Episode 303
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 304
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 12
+Episode 305
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 12
+Episode 306
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 307
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 12
+Episode 308
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 309
+Episode Terminated. cum_reward 0.0 truncated? False t: 75 final_obs: 5
+Episode 310
+Episode Terminated. cum_reward 0.0 truncated? False t: 61 final_obs: 5
+Episode 311
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 312
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 12
+Episode 313
+Episode Terminated. cum_reward 0.0 truncated? False t: 15 final_obs: 12
+Episode 314
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 315
+Episode Terminated. cum_reward 0.0 truncated? False t: 22 final_obs: 5
+Episode 316
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 5
+Episode 317
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 5
+Episode 318
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 319
+Episode Terminated. cum_reward 0.0 truncated? False t: 36 final_obs: 5
+Episode 320
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 321
+Episode Terminated. cum_reward 0.0 truncated? False t: 24 final_obs: 12
+Episode 322
+Episode Terminated. cum_reward 0.0 truncated? False t: 20 final_obs: 12
+Episode 323
+Episode Terminated. cum_reward 0.0 truncated? False t: 19 final_obs: 12
+Episode 324
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 325
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 12
+Episode 326
+Episode Terminated. cum_reward 0.0 truncated? False t: 18 final_obs: 5
+Episode 327
+Episode Terminated. cum_reward 0.0 truncated? False t: 48 final_obs: 5
+Episode 328
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 329
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 330
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 331
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 12
+Episode 332
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 333
+Episode Terminated. cum_reward 0.0 truncated? False t: 32 final_obs: 5
+Episode 334
+Episode Terminated. cum_reward 0.0 truncated? False t: 49 final_obs: 12
+Episode 335
+Episode Terminated. cum_reward 0.0 truncated? False t: 15 final_obs: 5
+Episode 336
+Episode Terminated. cum_reward 0.0 truncated? False t: 26 final_obs: 12
+Episode 337
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 338
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 5
+Episode 339
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 340
+Episode Terminated. cum_reward 0.0 truncated? False t: 20 final_obs: 5
+Episode 341
+Episode Terminated. cum_reward 0.0 truncated? False t: 18 final_obs: 12
+Episode 342
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 343
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 344
+Episode Terminated. cum_reward 0.0 truncated? False t: 27 final_obs: 5
+Episode 345
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 346
+Episode Terminated. cum_reward 0.0 truncated? False t: 29 final_obs: 5
+Episode 347
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 348
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 5
+Episode 349
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 5
+Episode 350
+Episode Terminated. cum_reward 0.0 truncated? False t: 20 final_obs: 5
+Episode 351
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 12
+Episode 352
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 353
+Episode Terminated. cum_reward 0.0 truncated? False t: 16 final_obs: 5
+Episode 354
+Episode Terminated. cum_reward 0.0 truncated? False t: 22 final_obs: 12
+Episode 355
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 356
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 5
+Episode 357
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 358
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 359
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 12
+Episode 360
+Episode Terminated. cum_reward 0.0 truncated? False t: 26 final_obs: 12
+Episode 361
+Episode Terminated. cum_reward 0.0 truncated? False t: 15 final_obs: 5
+Episode 362
+Episode Terminated. cum_reward 0.0 truncated? False t: 29 final_obs: 5
+Episode 363
+Episode Terminated. cum_reward 0.0 truncated? False t: 38 final_obs: 12
+Episode 364
+Episode Terminated. cum_reward 0.0 truncated? False t: 15 final_obs: 5
+Episode 365
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 366
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 367
+Episode Terminated. cum_reward 0.0 truncated? False t: 21 final_obs: 5
+Episode 368
+Episode Terminated. cum_reward 0.0 truncated? False t: 19 final_obs: 12
+Episode 369
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 370
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 371
+Episode Terminated. cum_reward 0.0 truncated? False t: 29 final_obs: 12
+Episode 372
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 373
+Episode Terminated. cum_reward 0.0 truncated? False t: 33 final_obs: 5
+Episode 374
+Episode Terminated. cum_reward 0.0 truncated? False t: 21 final_obs: 5
+Episode 375
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 376
+Episode Terminated. cum_reward 0.0 truncated? False t: 27 final_obs: 5
+Episode 377
+Episode Terminated. cum_reward 0.0 truncated? False t: 18 final_obs: 11
+Episode 378
+Episode Terminated. cum_reward 0.0 truncated? False t: 22 final_obs: 5
+Episode 379
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 5
+Episode 380
+Episode Terminated. cum_reward 0.0 truncated? False t: 32 final_obs: 5
+Episode 381
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 382
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 5
+Episode 383
+Episode Terminated. cum_reward 0.0 truncated? False t: 51 final_obs: 5
+Episode 384
+Episode Terminated. cum_reward 0.0 truncated? False t: 46 final_obs: 5
+Episode 385
+Episode Terminated. cum_reward 0.0 truncated? False t: 22 final_obs: 5
+Episode 386
+Episode Terminated. cum_reward 0.0 truncated? False t: 32 final_obs: 5
+Episode 387
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 5
+Episode 388
+Episode Terminated. cum_reward 0.0 truncated? False t: 27 final_obs: 5
+Episode 389
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 390
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 391
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 12
+Episode 392
+Episode Terminated. cum_reward 0.0 truncated? False t: 29 final_obs: 5
+Episode 393
+Episode Terminated. cum_reward 0.0 truncated? False t: 28 final_obs: 12
+Episode 394
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 395
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 396
+Episode Terminated. cum_reward 0.0 truncated? False t: 18 final_obs: 5
+Episode 397
+Episode Terminated. cum_reward 0.0 truncated? False t: 15 final_obs: 5
+Episode 398
+Episode Terminated. cum_reward 0.0 truncated? False t: 25 final_obs: 5
+Episode 399
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 400
+Episode Terminated. cum_reward 0.0 truncated? False t: 37 final_obs: 5
+Episode 401
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 402
+Episode Terminated. cum_reward 0.0 truncated? False t: 18 final_obs: 5
+Episode 403
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 404
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 405
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 406
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 407
+Episode Terminated. cum_reward 0.0 truncated? False t: 19 final_obs: 5
+Episode 408
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 409
+Episode Terminated. cum_reward 0.0 truncated? False t: 21 final_obs: 12
+Episode 410
+Episode Terminated. cum_reward 0.0 truncated? False t: 29 final_obs: 12
+Episode 411
+Episode Terminated. cum_reward 0.0 truncated? False t: 34 final_obs: 5
+Episode 412
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 5
+Episode 413
+Episode Terminated. cum_reward 0.0 truncated? False t: 50 final_obs: 5
+Episode 414
+Episode Terminated. cum_reward 0.0 truncated? False t: 26 final_obs: 5
+Episode 415
+Episode Terminated. cum_reward 0.0 truncated? False t: 54 final_obs: 5
+Episode 416
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 12
+Episode 417
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 418
+Episode Terminated. cum_reward 0.0 truncated? False t: 16 final_obs: 5
+Episode 419
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 12
+Episode 420
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 5
+Episode 421
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 12
+Episode 422
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 423
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 12
+Episode 424
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 425
+Episode Terminated. cum_reward 0.0 truncated? False t: 21 final_obs: 12
+Episode 426
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 427
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 428
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 5
+Episode 429
+Episode Terminated. cum_reward 0.0 truncated? False t: 23 final_obs: 5
+Episode 430
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 5
+Episode 431
+Episode Terminated. cum_reward 0.0 truncated? False t: 26 final_obs: 12
+Episode 432
+Episode Terminated. cum_reward 0.0 truncated? False t: 24 final_obs: 12
+Episode 433
+Episode Terminated. cum_reward 0.0 truncated? False t: 66 final_obs: 5
+Episode 434
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 5
+Episode 435
+Episode Terminated. cum_reward 0.0 truncated? False t: 32 final_obs: 12
+Episode 436
+Episode Terminated. cum_reward 0.0 truncated? False t: 27 final_obs: 5
+Episode 437
+Episode Terminated. cum_reward 0.0 truncated? False t: 25 final_obs: 5
+Episode 438
+Episode Terminated. cum_reward 0.0 truncated? False t: 28 final_obs: 5
+Episode 439
+Episode Terminated. cum_reward 0.0 truncated? False t: 29 final_obs: 5
+Episode 440
+Episode Terminated. cum_reward 0.0 truncated? False t: 42 final_obs: 12
+Episode 441
+Episode Terminated. cum_reward 0.0 truncated? False t: 69 final_obs: 5
+Episode 442
+Episode Terminated. cum_reward 0.0 truncated? False t: 28 final_obs: 5
+Episode 443
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 444
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 445
+Episode Terminated. cum_reward 0.0 truncated? False t: 19 final_obs: 12
+Episode 446
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 447
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 448
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 449
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 450
+Episode Terminated. cum_reward 0.0 truncated? False t: 18 final_obs: 5
+Episode 451
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 452
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 5
+Episode 453
+Episode Terminated. cum_reward 0.0 truncated? False t: 20 final_obs: 5
+Episode 454
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 455
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 12
+Episode 456
+Episode Terminated. cum_reward 0.0 truncated? False t: 19 final_obs: 12
+Episode 457
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 12
+Episode 458
+Episode Terminated. cum_reward 0.0 truncated? False t: 24 final_obs: 5
+Episode 459
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 460
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 12
+Episode 461
+Episode Terminated. cum_reward 0.0 truncated? False t: 16 final_obs: 12
+Episode 462
+Episode Terminated. cum_reward 0.0 truncated? False t: 15 final_obs: 5
+Episode 463
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 464
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 465
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 466
+Episode Terminated. cum_reward 0.0 truncated? False t: 25 final_obs: 5
+Episode 467
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 12
+Episode 468
+Episode Terminated. cum_reward 0.0 truncated? False t: 16 final_obs: 5
+Episode 469
+Episode Terminated. cum_reward 0.0 truncated? False t: 51 final_obs: 5
+Episode 470
+Episode Terminated. cum_reward 0.0 truncated? False t: 26 final_obs: 5
+Episode 471
+Episode Terminated. cum_reward 0.0 truncated? False t: 49 final_obs: 5
+Episode 472
+Episode Terminated. cum_reward 0.0 truncated? False t: 16 final_obs: 5
+Episode 473
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 474
+Episode Terminated. cum_reward 0.0 truncated? False t: 36 final_obs: 5
+Episode 475
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 476
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 477
+Episode Terminated. cum_reward 0.0 truncated? False t: 24 final_obs: 5
+Episode 478
+Episode Terminated. cum_reward 0.0 truncated? False t: 32 final_obs: 5
+Episode 479
+Episode Terminated. cum_reward 0.0 truncated? False t: 18 final_obs: 5
+Episode 480
+Episode Terminated. cum_reward 0.0 truncated? False t: 73 final_obs: 12
+Episode 481
+Episode Terminated. cum_reward 0.0 truncated? False t: 32 final_obs: 12
+Episode 482
+Episode Terminated. cum_reward 0.0 truncated? False t: 19 final_obs: 5
+Episode 483
+Episode Terminated. cum_reward 0.0 truncated? False t: 66 final_obs: 12
+Episode 484
+Episode Terminated. cum_reward 0.0 truncated? False t: 15 final_obs: 5
+Episode 485
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 5
+Episode 486
+Episode Terminated. cum_reward 0.0 truncated? False t: 18 final_obs: 5
+Episode 487
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 488
+Episode Terminated. cum_reward 0.0 truncated? False t: 24 final_obs: 12
+Episode 489
+Episode Terminated. cum_reward 0.0 truncated? False t: 28 final_obs: 5
+Episode 490
+Episode Terminated. cum_reward 0.0 truncated? False t: 15 final_obs: 12
+Episode 491
+Episode Terminated. cum_reward 0.0 truncated? False t: 22 final_obs: 5
+Episode 492
+Episode Terminated. cum_reward 0.0 truncated? False t: 44 final_obs: 5
+Episode 493
+Episode Terminated. cum_reward 0.0 truncated? False t: 26 final_obs: 5
+Episode 494
+Episode Terminated. cum_reward 0.0 truncated? False t: 51 final_obs: 5
+Episode 495
+Episode Terminated. cum_reward 0.0 truncated? False t: 24 final_obs: 12
+Episode 496
+Episode Terminated. cum_reward 0.0 truncated? False t: 20 final_obs: 5
+Episode 497
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 498
+Episode Terminated. cum_reward 0.0 truncated? False t: 19 final_obs: 5
+Episode 499
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 500
+Episode Terminated. cum_reward 0.0 truncated? False t: 19 final_obs: 5
+Episode 501
+Episode Terminated. cum_reward 0.0 truncated? False t: 62 final_obs: 12
+Episode 502
+Episode Terminated. cum_reward 0.0 truncated? False t: 30 final_obs: 5
+Episode 503
+Episode Terminated. cum_reward 0.0 truncated? False t: 20 final_obs: 5
+Episode 504
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 505
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 506
+Episode Terminated. cum_reward 0.0 truncated? False t: 24 final_obs: 5
+Episode 507
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 5
+Episode 508
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 12
+Episode 509
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 510
+Episode Terminated. cum_reward 0.0 truncated? True t: 123 final_obs: 12
+Episode 511
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 5
+Episode 512
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 5
+Episode 513
+Episode Terminated. cum_reward 0.0 truncated? False t: 38 final_obs: 5
+Episode 514
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 12
+Episode 515
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 516
+Episode Terminated. cum_reward 0.0 truncated? False t: 68 final_obs: 12
+Episode 517
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 518
+Episode Terminated. cum_reward 0.0 truncated? False t: 19 final_obs: 12
+Episode 519
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 5
+Episode 520
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 521
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 12
+Episode 522
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 5
+Episode 523
+Episode Terminated. cum_reward 0.0 truncated? False t: 35 final_obs: 5
+Episode 524
+Episode Terminated. cum_reward 0.0 truncated? False t: 16 final_obs: 5
+Episode 525
+Episode Terminated. cum_reward 0.0 truncated? False t: 21 final_obs: 12
+Episode 526
+Episode Terminated. cum_reward 0.0 truncated? False t: 20 final_obs: 5
+Episode 527
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 528
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 529
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 530
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 531
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 532
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 5
+Episode 533
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 534
+Episode Terminated. cum_reward 0.0 truncated? False t: 33 final_obs: 5
+Episode 535
+Episode Terminated. cum_reward 0.0 truncated? False t: 22 final_obs: 5
+Episode 536
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 537
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 538
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 12
+Episode 539
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 540
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 541
+Episode Terminated. cum_reward 0.0 truncated? False t: 27 final_obs: 7
+Episode 542
+Episode Terminated. cum_reward 0.0 truncated? False t: 22 final_obs: 12
+Episode 543
+Episode Terminated. cum_reward 0.0 truncated? False t: 47 final_obs: 5
+Episode 544
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 12
+Episode 545
+Episode Terminated. cum_reward 0.0 truncated? False t: 25 final_obs: 5
+Episode 546
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 7
+Episode 547
+Episode Terminated. cum_reward 0.0 truncated? False t: 26 final_obs: 12
+Episode 548
+Episode Terminated. cum_reward 0.0 truncated? False t: 15 final_obs: 5
+Episode 549
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 550
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 551
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 552
+Episode Terminated. cum_reward 0.0 truncated? False t: 45 final_obs: 5
+Episode 553
+Episode Terminated. cum_reward 0.0 truncated? False t: 29 final_obs: 12
+Episode 554
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 555
+Episode Terminated. cum_reward 0.0 truncated? False t: 20 final_obs: 5
+Episode 556
+Episode Terminated. cum_reward 0.0 truncated? False t: 21 final_obs: 5
+Episode 557
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 558
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 559
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 12
+Episode 560
+Episode Terminated. cum_reward 0.0 truncated? False t: 16 final_obs: 5
+Episode 561
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 5
+Episode 562
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 563
+Episode Terminated. cum_reward 0.0 truncated? False t: 32 final_obs: 5
+Episode 564
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 5
+Episode 565
+Episode Terminated. cum_reward 0.0 truncated? False t: 18 final_obs: 5
+Episode 566
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 567
+Episode Terminated. cum_reward 0.0 truncated? False t: 16 final_obs: 5
+Episode 568
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 569
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 12
+Episode 570
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 571
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 12
+Episode 572
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 573
+Episode Terminated. cum_reward 0.0 truncated? False t: 40 final_obs: 5
+Episode 574
+Episode Terminated. cum_reward 0.0 truncated? False t: 46 final_obs: 5
+Episode 575
+Episode Terminated. cum_reward 0.0 truncated? False t: 25 final_obs: 5
+Episode 576
+Episode Terminated. cum_reward 0.0 truncated? False t: 46 final_obs: 12
+Episode 577
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 12
+Episode 578
+Episode Terminated. cum_reward 0.0 truncated? False t: 16 final_obs: 5
+Episode 579
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 12
+Episode 580
+Episode Terminated. cum_reward 0.0 truncated? False t: 15 final_obs: 5
+Episode 581
+Episode Terminated. cum_reward 0.0 truncated? False t: 21 final_obs: 5
+Episode 582
+Episode Terminated. cum_reward 0.0 truncated? False t: 15 final_obs: 5
+Episode 583
+Episode Terminated. cum_reward 0.0 truncated? False t: 60 final_obs: 12
+Episode 584
+Episode Terminated. cum_reward 0.0 truncated? False t: 61 final_obs: 5
+Episode 585
+Episode Terminated. cum_reward 0.0 truncated? False t: 61 final_obs: 12
+Episode 586
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 12
+Episode 587
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 588
+Episode Terminated. cum_reward 0.0 truncated? False t: 36 final_obs: 5
+Episode 589
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 590
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 591
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 12
+Episode 592
+Episode Terminated. cum_reward 0.0 truncated? False t: 26 final_obs: 12
+Episode 593
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 12
+Episode 594
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 595
+Episode Terminated. cum_reward 0.0 truncated? False t: 24 final_obs: 5
+Episode 596
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 597
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 598
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 599
+Episode Terminated. cum_reward 0.0 truncated? False t: 28 final_obs: 5
+Episode 600
+Episode Terminated. cum_reward 0.0 truncated? False t: 79 final_obs: 5
+Episode 601
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 5
+Episode 602
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 5
+Episode 603
+Episode Terminated. cum_reward 0.0 truncated? False t: 18 final_obs: 5
+Episode 604
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 12
+Episode 605
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 606
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 607
+Episode Terminated. cum_reward 0.0 truncated? False t: 28 final_obs: 5
+Episode 608
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 5
+Episode 609
+Episode Terminated. cum_reward 0.0 truncated? False t: 29 final_obs: 5
+Episode 610
+Episode Terminated. cum_reward 0.0 truncated? False t: 21 final_obs: 5
+Episode 611
+Episode Terminated. cum_reward 0.0 truncated? False t: 21 final_obs: 5
+Episode 612
+Episode Terminated. cum_reward 0.0 truncated? False t: 32 final_obs: 5
+Episode 613
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 614
+Episode Terminated. cum_reward 0.0 truncated? False t: 16 final_obs: 12
+Episode 615
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 616
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 12
+Episode 617
+Episode Terminated. cum_reward 0.0 truncated? False t: 16 final_obs: 5
+Episode 618
+Episode Terminated. cum_reward 0.0 truncated? False t: 26 final_obs: 12
+Episode 619
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 620
+Episode Terminated. cum_reward 0.0 truncated? False t: 28 final_obs: 12
+Episode 621
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 622
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 5
+Episode 623
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 624
+Episode Terminated. cum_reward 0.0 truncated? False t: 58 final_obs: 5
+Episode 625
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 12
+Episode 626
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 627
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 12
+Episode 628
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 629
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 5
+Episode 630
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 12
+Episode 631
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 632
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 633
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 5
+Episode 634
+Episode Terminated. cum_reward 0.0 truncated? False t: 15 final_obs: 12
+Episode 635
+Episode Terminated. cum_reward 0.0 truncated? False t: 49 final_obs: 5
+Episode 636
+Episode Terminated. cum_reward 0.0 truncated? False t: 18 final_obs: 5
+Episode 637
+Episode Terminated. cum_reward 0.0 truncated? False t: 69 final_obs: 12
+Episode 638
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 639
+Episode Terminated. cum_reward 0.0 truncated? False t: 36 final_obs: 12
+Episode 640
+Episode Terminated. cum_reward 0.0 truncated? False t: 53 final_obs: 5
+Episode 641
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 12
+Episode 642
+Episode Terminated. cum_reward 0.0 truncated? False t: 20 final_obs: 5
+Episode 643
+Episode Terminated. cum_reward 0.0 truncated? False t: 19 final_obs: 5
+Episode 644
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 5
+Episode 645
+Episode Terminated. cum_reward 0.0 truncated? False t: 44 final_obs: 5
+Episode 646
+Episode Terminated. cum_reward 0.0 truncated? False t: 22 final_obs: 5
+Episode 647
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 648
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 649
+Episode Terminated. cum_reward 0.0 truncated? False t: 50 final_obs: 5
+Episode 650
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 651
+Episode Terminated. cum_reward 0.0 truncated? False t: 64 final_obs: 5
+Episode 652
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 12
+Episode 653
+Episode Terminated. cum_reward 0.0 truncated? False t: 21 final_obs: 5
+Episode 654
+Episode Terminated. cum_reward 0.0 truncated? False t: 53 final_obs: 12
+Episode 655
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 656
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 657
+Episode Terminated. cum_reward 0.0 truncated? False t: 20 final_obs: 12
+Episode 658
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 5
+Episode 659
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 660
+Episode Terminated. cum_reward 0.0 truncated? False t: 25 final_obs: 5
+Episode 661
+Episode Terminated. cum_reward 0.0 truncated? False t: 27 final_obs: 12
+Episode 662
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 663
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 12
+Episode 664
+Episode Terminated. cum_reward 0.0 truncated? False t: 47 final_obs: 5
+Episode 665
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 5
+Episode 666
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 667
+Episode Terminated. cum_reward 0.0 truncated? False t: 40 final_obs: 5
+Episode 668
+Episode Terminated. cum_reward 0.0 truncated? False t: 18 final_obs: 5
+Episode 669
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 5
+Episode 670
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 19 final_obs: 15
+Episode 671
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 672
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 673
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 674
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 8 final_obs: 15
+Episode 675
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 676
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 677
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 678
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 12
+Episode 679
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 12
+Episode 680
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 7 final_obs: 15
+Episode 681
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 682
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 12
+Episode 683
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 9 final_obs: 15
+Episode 684
+Episode Terminated. cum_reward 0.0 truncated? False t: 16 final_obs: 5
+Episode 685
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 7
+Episode 686
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 687
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 688
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 689
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 690
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 691
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 692
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 693
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 694
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 695
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 7
+Episode 696
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 12
+Episode 697
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 698
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 699
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 12
+Episode 700
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 13 final_obs: 15
+Episode 701
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 12 final_obs: 15
+Episode 702
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 703
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 704
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 5
+Episode 705
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 5
+Episode 706
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 12
+Episode 707
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 708
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 709
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 8 final_obs: 15
+Episode 710
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 11 final_obs: 15
+Episode 711
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 12
+Episode 712
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 9 final_obs: 15
+Episode 713
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 12
+Episode 714
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 12
+Episode 715
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 716
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 717
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 11 final_obs: 15
+Episode 718
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 719
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 12
+Episode 720
+Episode Terminated. cum_reward 0.0 truncated? False t: 25 final_obs: 5
+Episode 721
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 12
+Episode 722
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 12
+Episode 723
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 724
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 725
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 8 final_obs: 15
+Episode 726
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 727
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 728
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 12
+Episode 729
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 730
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 15 final_obs: 15
+Episode 731
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 732
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 733
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 734
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 735
+Episode Terminated. cum_reward 0.0 truncated? False t: 13 final_obs: 5
+Episode 736
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 8 final_obs: 15
+Episode 737
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 12
+Episode 738
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 739
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 740
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 10 final_obs: 15
+Episode 741
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 12
+Episode 742
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 11
+Episode 743
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 744
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 8 final_obs: 15
+Episode 745
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 746
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 747
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 35 final_obs: 15
+Episode 748
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 16 final_obs: 15
+Episode 749
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 22 final_obs: 15
+Episode 750
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 12
+Episode 751
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 752
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 753
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 754
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 755
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 756
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 757
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 758
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 759
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 12 final_obs: 15
+Episode 760
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 12
+Episode 761
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 762
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 11
+Episode 763
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 14 final_obs: 15
+Episode 764
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 7 final_obs: 15
+Episode 765
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 11
+Episode 766
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 767
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 768
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 5
+Episode 769
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 770
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 771
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 11
+Episode 772
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 773
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 774
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 775
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 12
+Episode 776
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 9 final_obs: 15
+Episode 777
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 778
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 779
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 12 final_obs: 15
+Episode 780
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 781
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 12
+Episode 782
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 8 final_obs: 15
+Episode 783
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 7 final_obs: 15
+Episode 784
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 785
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 786
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 16 final_obs: 15
+Episode 787
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 788
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 789
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 790
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 11
+Episode 791
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 792
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 793
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 794
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 12
+Episode 795
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 12
+Episode 796
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 10 final_obs: 15
+Episode 797
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 12
+Episode 798
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 799
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 22 final_obs: 15
+Episode 800
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 12
+Episode 801
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 802
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 7 final_obs: 15
+Episode 803
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 8 final_obs: 15
+Episode 804
+Episode Terminated. cum_reward 0.0 truncated? False t: 14 final_obs: 5
+Episode 805
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 806
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 12
+Episode 807
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 20 final_obs: 15
+Episode 808
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 8 final_obs: 15
+Episode 809
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 810
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 811
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 7
+Episode 812
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 12
+Episode 813
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 814
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 815
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 12 final_obs: 15
+Episode 816
+Episode Terminated. cum_reward 0.0 truncated? False t: 24 final_obs: 12
+Episode 817
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 818
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 819
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 22 final_obs: 15
+Episode 820
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 821
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 16 final_obs: 15
+Episode 822
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 11
+Episode 823
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 824
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 825
+Episode Terminated. cum_reward 0.0 truncated? False t: 27 final_obs: 12
+Episode 826
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 827
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 828
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 5
+Episode 829
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 12
+Episode 830
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 831
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 8 final_obs: 15
+Episode 832
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 833
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 7 final_obs: 15
+Episode 834
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 13 final_obs: 15
+Episode 835
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 12 final_obs: 15
+Episode 836
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 11
+Episode 837
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 9 final_obs: 15
+Episode 838
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 839
+Episode Terminated. cum_reward 0.0 truncated? False t: 21 final_obs: 11
+Episode 840
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 11 final_obs: 15
+Episode 841
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 842
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 7 final_obs: 15
+Episode 843
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 11 final_obs: 15
+Episode 844
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 12
+Episode 845
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 846
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 847
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 848
+Episode Terminated. cum_reward 0.0 truncated? False t: 15 final_obs: 11
+Episode 849
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 850
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 11
+Episode 851
+Episode Terminated. cum_reward 0.0 truncated? False t: 19 final_obs: 5
+Episode 852
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 853
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 11
+Episode 854
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 855
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 13 final_obs: 15
+Episode 856
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 8 final_obs: 15
+Episode 857
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 9 final_obs: 15
+Episode 858
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 12
+Episode 859
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 11 final_obs: 15
+Episode 860
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 12
+Episode 861
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 13 final_obs: 15
+Episode 862
+Episode Terminated. cum_reward 0.0 truncated? False t: 38 final_obs: 11
+Episode 863
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 864
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 865
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 866
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 867
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 11
+Episode 868
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 869
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 870
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 12
+Episode 871
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 12
+Episode 872
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 873
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 874
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 875
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 876
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 877
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 878
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 8 final_obs: 15
+Episode 879
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 880
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 881
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 12
+Episode 882
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 883
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 9 final_obs: 15
+Episode 884
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 11
+Episode 885
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 886
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 887
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 8 final_obs: 15
+Episode 888
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 889
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 890
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 11
+Episode 891
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 15 final_obs: 15
+Episode 892
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 11
+Episode 893
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 894
+Episode Terminated. cum_reward 0.0 truncated? False t: 15 final_obs: 7
+Episode 895
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 896
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 11 final_obs: 15
+Episode 897
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 5
+Episode 898
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 899
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 15 final_obs: 15
+Episode 900
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 901
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 5
+Episode 902
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 11
+Episode 903
+Episode Terminated. cum_reward 0.0 truncated? False t: 12 final_obs: 11
+Episode 904
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 905
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 906
+Episode Terminated. cum_reward 0.0 truncated? False t: 21 final_obs: 5
+Episode 907
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 7 final_obs: 15
+Episode 908
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 12 final_obs: 15
+Episode 909
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 8 final_obs: 15
+Episode 910
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 911
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 11 final_obs: 15
+Episode 912
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 11
+Episode 913
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 914
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 10 final_obs: 15
+Episode 915
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 916
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 5
+Episode 917
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 918
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 9 final_obs: 15
+Episode 919
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 11
+Episode 920
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 921
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 922
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 9 final_obs: 15
+Episode 923
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 11 final_obs: 15
+Episode 924
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 12
+Episode 925
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 926
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 927
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 11
+Episode 928
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 929
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 930
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 13 final_obs: 15
+Episode 931
+Episode Terminated. cum_reward 0.0 truncated? False t: 21 final_obs: 5
+Episode 932
+Episode Terminated. cum_reward 0.0 truncated? False t: 16 final_obs: 12
+Episode 933
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 934
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 935
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 7 final_obs: 15
+Episode 936
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 9 final_obs: 15
+Episode 937
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 938
+Episode Terminated. cum_reward 0.0 truncated? False t: 8 final_obs: 11
+Episode 939
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 940
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 10 final_obs: 15
+Episode 941
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 942
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 943
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 944
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 945
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 11
+Episode 946
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 947
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 7 final_obs: 15
+Episode 948
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 949
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 17 final_obs: 15
+Episode 950
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 951
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 12 final_obs: 15
+Episode 952
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 12
+Episode 953
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 11
+Episode 954
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 11 final_obs: 15
+Episode 955
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 956
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 11
+Episode 957
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 12 final_obs: 15
+Episode 958
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 11 final_obs: 15
+Episode 959
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 960
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 961
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 962
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 10 final_obs: 15
+Episode 963
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 9 final_obs: 15
+Episode 964
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 13 final_obs: 15
+Episode 965
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 966
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 9 final_obs: 15
+Episode 967
+Episode Terminated. cum_reward 0.0 truncated? False t: 23 final_obs: 7
+Episode 968
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 969
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 970
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 971
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 972
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 12 final_obs: 15
+Episode 973
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 974
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Episode 975
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 976
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 5
+Episode 977
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 7 final_obs: 15
+Episode 978
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 12
+Episode 979
+Episode Terminated. cum_reward 0.0 truncated? False t: 11 final_obs: 11
+Episode 980
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 981
+Episode Terminated. cum_reward 0.0 truncated? False t: 5 final_obs: 5
+Episode 982
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 983
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5
+Episode 984
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 12
+Episode 985
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 11
+Episode 986
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 12 final_obs: 15
+Episode 987
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 6 final_obs: 15
+Episode 988
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 14 final_obs: 15
+Episode 989
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 990
+Episode Terminated. cum_reward 0.0 truncated? False t: 6 final_obs: 12
+Episode 991
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 9 final_obs: 15
+Episode 992
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 11
+Episode 993
+reached goal!
+Episode Terminated. cum_reward 1.0 truncated? False t: 10 final_obs: 15
+Episode 994
+Episode Terminated. cum_reward 0.0 truncated? False t: 4 final_obs: 5
+Episode 995
+Episode Terminated. cum_reward 0.0 truncated? False t: 7 final_obs: 5
+Episode 996
+Episode Terminated. cum_reward 0.0 truncated? False t: 9 final_obs: 12
+Episode 997
+Episode Terminated. cum_reward 0.0 truncated? False t: 17 final_obs: 11
+Episode 998
+Episode Terminated. cum_reward 0.0 truncated? False t: 10 final_obs: 5
+Episode 999
+Episode Terminated. cum_reward 0.0 truncated? False t: 2 final_obs: 5
+Done Training-----------------------
+Policy: {0: 1, 1: 3, 2: 3, 3: 0, 4: 1, 5: 0, 6: 1, 7: 0, 8: 2, 9: 2, 10: 1, 11: 0, 12: 0, 13: 2, 14: 2, 15: 0} 
+
+Training Stats ---------------------
+1000 episodes
+Avg. cum_reward: 0.107 
+
+Testing-----------------------------
+Episode 0
+Taking action 1
+Taking action 1
+Taking action 2
+Taking action 2
+Taking action 1
+Taking action 2
+reached goal!
+Episode 0 finished with cum_reward 1.0
+Episode 1
+Taking action 1
+Taking action 1
+Taking action 2
+Taking action 2
+Taking action 1
+Taking action 2
+reached goal!
+Episode 1 finished with cum_reward 1.0
+Episode 2
+Taking action 1
+Taking action 1
+Taking action 2
+Taking action 2
+Taking action 1
+Taking action 2
+reached goal!
+Episode 2 finished with cum_reward 1.0
+
+Done Testing. Stats -------------------
+3 episodes
+Avg. cum_reward: 1.0

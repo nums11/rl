@@ -7,11 +7,13 @@ import numpy as np
 
 class MCAgent(object):
 	"""docstring for MCAgent"""
-	def __init__(self, env, on_policy=True, first_visit=True, epsilon=0.3, gamma=0.9):
+	def __init__(self, env, on_policy=True, weighted_is=False, first_visit=True, epsilon=0.3, gamma=0.9):
 		# Training Environment
 		self.env = env
 		# Sets on vs. off-policy learning
 		self.on_policy = on_policy
+		# Sets weighted vs. ordinary importance sampling for off-policy learning
+		self.weighted_is = weighted_is
 		# Determines if the agent is using first visit or every-visit MC
 		self.first_visit = first_visit
 		# Degree of exploration
@@ -20,8 +22,12 @@ class MCAgent(object):
 		self.gamma = gamma
 		self.num_states = self.env.observation_space.n
 		self.num_actions = self.env.action_space.n
+		# Action-value function
 		self.Q = {}
+		# Policy
 		self.policy = {}
+		# Sum of weights for weighted importance sampling
+		self.C = {}
 		# keeps track of the number of times each state-action pair is visited
 		self.n = {}
 		for s in range(self.num_states):
@@ -29,7 +35,7 @@ class MCAgent(object):
 			for a in range(self.num_actions):
 				self.Q[(s,a)] = 0
 				self.n[(s,a)] = 0
-
+				self.C[(s,a)] = 0
 
 	def train(self, num_episodes):
 		if self.on_policy:
@@ -79,7 +85,6 @@ class MCAgent(object):
 			W = 1
 			# Iterate through trajectory in reverse
 			for t in reversed(trajectory):
-				print("T trajectory")
 				# Grab state, action, and reward from this step of the trajectory
 				s_t, a_t, r_t_plus_1 = trajectory[t]
 				# Add to the discounted return
@@ -89,8 +94,15 @@ class MCAgent(object):
 					# Increment num times this state action pair was selected
 					self.n[(s_t, a_t)] += 1
 					# Update the action-value function
-					# How should I update G?
-					self.Q[(s_t, a_t)] += (1 / self.n[(s_t,a_t)]) * (G - self.Q[(s_t, a_t)])
+					if self.weighted_is: # Weighted Importance Sampling
+						# Add to the sum of weights for this state-action pair
+						self.C[(s_t, a_t)] += W
+						self.Q[(s_t, a_t)] +=  (W / self.C[(s_t,a_t)]) * (G - self.Q[(s_t, a_t)])
+						print("Doing weight is")
+					else: # Ordinary Importance Sampling
+						print("Doing ordinary is")
+
+						self.Q[(s_t, a_t)] += (1 / self.n[(s_t,a_t)]) * (W * G - self.Q[(s_t, a_t)])
 					# Make the policy greedy with respect to the action value function
 					self.updatePolicy(s_t)
 					# Update the importance sampling ratio
@@ -101,7 +113,7 @@ class MCAgent(object):
 						break
 					# target policy is det. so likelihood of it being selected is 1
 					# behavior policy is random so likelihood of it being 1 / num actions
-					W *= 1 / (1 / len(self.num_actions))
+					W *= 1 / (1 / self.num_actions)
 
 		print("Done Training-----------------------")
 		print("Policy:", self.policy, '\n')
@@ -158,7 +170,7 @@ class MCAgent(object):
 
 	# Update policy to choose the max action from the given state
 	# based on the action value function
-	def updatePolicyState(self, s):
+	def updatePolicy(self, s):
 		max_a = self.getMaxActionForState(s)
 		self.policy[s] = max_a
 
@@ -175,18 +187,18 @@ class MCAgent(object):
 
 	# Test the agent on the test environment for the number of
 	# specified episodes following a determininstic policy
-	def test(self, env, num_episodes):
+	def test(self, test_env, num_episodes):
 		print("Testing-----------------------------")
 		cum_rewards = []
 		for episode in range(num_episodes):
-			obs, transition_prob = self.env.reset()
+			obs, transition_prob = test_env.reset()
 			print("Episode", episode)
 			terminated = False
 			cum_reward = 0
 			while not terminated:
 				action = self.policy[obs]
 				print("Taking action", action)
-				obs, reward, terminated, truncated, info = self.env.step(action)
+				obs, reward, terminated, truncated, info = test_env.step(action)
 				if reward > 0:
 					print("reached goal!")
 				cum_reward += reward

@@ -1,0 +1,3 @@
+Starting training-----------------
+Episode 0
+Episode Terminated. cum_reward 0.0 truncated? False t: 3 final_obs: 5

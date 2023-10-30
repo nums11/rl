@@ -1,0 +1,89 @@
+import gymnasium as gym
+from time import sleep
+from tqdm import tqdm
+import random
+import numpy as np
+from Trainer import Trainer
+from MCAgent import MCAgent
+import sys
+import numpy as np
+
+"""
+0: Move left
+1: Move down
+2: Move right
+3: Move up
+"""
+env = gym.make('FrozenLake-v1', desc=None, map_name="4x4", is_slippery=False)
+
+# original_stdout = sys.stdout
+
+# First-Visit On-Policy MC Agent
+# file = open('MC_fv_on_policy_logs.txt', 'w')
+# sys.stdout = file
+
+agent = MCAgent(env, on_policy=True, first_visit=True)
+# epsilon_values = np.arange(0.4, 0.6, 0.1)
+# gamma_values = np.arange(0.7, 0.9, 0.1)
+epsilon_values  = [0.5, 0.6, 0.7, 0.8, 0.9]
+gamma_values = [0.5, 0.6, 0.7, 0.8, 0.9]
+# epsilon_values = [0.5, 0.6, 0.7]
+# gamma_values = [0.8]
+trainer = Trainer(env, agent, epsilon_values=epsilon_values, gamma_values=gamma_values,
+	num_runs=3, num_eps_per_run=1000, eval_freq=100)
+trainer.train()
+
+# test_env = gym.make('FrozenLake-v1', desc=None, map_name="4x4", is_slippery=False,
+# 	render_mode="human")
+# agent.test(test_env, 3)
+# file.close()
+
+# Every-Visit On-Policy MC Agent
+# file = open('MC_ev_on_policy_logs.txt', 'w')
+# sys.stdout = file
+# agent = MCAgent(env, first_visit=False, epsilon=0.5, gamma=0.9)
+# agent.trainOnPolicy(1000)
+# test_env = gym.make('FrozenLake-v1', desc=None, map_name="4x4", is_slippery=False,
+# 	render_mode="human")
+# agent.test(test_env, 3)
+# file.close()
+
+# First-Visit Off-Policy Ordinary Importance Sampling MC Agent
+# file = open('MC_fv_off_policy_ord_is_logs.txt', 'w')
+# sys.stdout = file
+# agent = MCAgent(env, on_policy=False, first_visit=True, gamma=0.9)
+# agent.train(5000)
+# test_env = gym.make('FrozenLake-v1', desc=None, map_name="4x4", is_slippery=False,
+# 	render_mode="human")
+# agent.test(test_env, 3)
+# file.close()
+
+# Every-Visit Off-Policy Ordinary Importance Sampling MC Agent
+# file = open('MC_ev_off_policy_ord_is_logs.txt', 'w')
+# sys.stdout = file
+# agent = MCAgent(env, on_policy=False, first_visit=False, gamma=0.9)
+# agent.train(10000)
+# test_env = gym.make('FrozenLake-v1', desc=None, map_name="4x4", is_slippery=False,
+# 	render_mode="human")
+# agent.test(test_env, 3)
+# file.close()
+
+# First-Visit Off-Policy Weighted Importance Sampling MC Agent
+# file = open('MC_fv_off_policy_weighted_is_logs.txt', 'w')
+# sys.stdout = file
+# agent = MCAgent(env, on_policy=False, weighted_is=True, first_visit=True, gamma=0.9)
+# agent.train(5000)
+# test_env = gym.make('FrozenLake-v1', desc=None, map_name="4x4", is_slippery=False,
+# 	render_mode="human")
+# agent.test(test_env, 3)
+# file.close()
+
+# Every-Visit Off-Policy Ordinary Importance Sampling MC Agent
+# file = open('MC_ev_off_policy_weighted_is_logs.txt', 'w')
+# sys.stdout = file
+# agent = MCAgent(env, on_policy=False, weighted_is=True, first_visit=False, gamma=0.9)
+# agent.train(5000)
+# test_env = gym.make('FrozenLake-v1', desc=None, map_name="4x4", is_slippery=False,
+# 	render_mode="human")
+# agent.test(test_env, 3)
+# file.close()

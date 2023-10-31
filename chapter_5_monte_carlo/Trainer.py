@@ -80,6 +80,9 @@ class Trainer(object):
 
 			file.close()
 
+			# Save the policy
+			np.save(run_dir + '/policy.npy', self.agent.policy) 
+
 			# Reset the agent so that the next run will be fresh
 			self.agent.reset()
 
@@ -144,6 +147,7 @@ class Trainer(object):
 			avg_eval_reward_for_step = sum(eval_rewards_for_step) / len(eval_rewards_for_step)
 			avg_eval_rewards_for_each_step[eval_step] = avg_eval_reward_for_step
 
+		plt.ylim(0,1)
 		plt.plot(list(avg_eval_rewards_for_each_step.keys()), list(avg_eval_rewards_for_each_step.values()))
 		plt.xlabel("Episode") 
 		plt.ylabel("Avg. Cum. Reward")

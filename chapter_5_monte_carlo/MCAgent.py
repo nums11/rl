@@ -106,6 +106,9 @@ class MCAgent(object):
 		print("Starting training-----------------")
 		cum_rewards = []
 		for episode in tqdm(range(num_episodes)):
+			# Test the agent every few episodes
+			if episode > 0 and episode % self.eval_freq == 0:
+				self.eval_rewards[episode] = self.eval(self.env, 10)
 			print("Episode", episode)
 			# Generate an episode and receive the trajectory
 			trajectory = self.genEpisode(cum_rewards)
